@@ -1,7 +1,8 @@
 # _Hi! I'm Niranjana Shashikumar_
 <img src=https://media.giphy.com/media/2ldzV2JXHN7G9Nl5iB/giphy.gif>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Niranjana%20Shashikumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/niranjanashashikumar/)](https://www.linkedin.com/in/niranjanashashikumar/) [![Twitter Badge](http://img.shields.io/badge/-@biomenon-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/biomenon)](https://twitter.com/biomenon) [![Gmail Badge](https://img.shields.io/badge/-ninjusmenon46-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ninjusmenon46@gmail.com)](mailto:ninjusmenon46@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Niranjana%20Shashikumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/niranjanashashikumar/)](https://www.linkedin.com/in/niranjanashashikumar/) [![Twitter Badge](http://img.shields.io/badge/-@biomenon-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/biomenon)](https://twitter.com/biomenon) [![Gmail Badge](https://img.shields.io/badge/-ninjusmenon46-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ninjusmenon46@gmail.com)](mailto:ninjusmenon46@gmail.com) ![](https://komarev.com/ghpvc/?username=NinjMenon)
+
 ### I am ...
 🎓 A graduate biomedical engineer 
 
