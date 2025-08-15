@@ -19,8 +19,3 @@
   * You want to chat about medical imaging, or tech in general
   * You want to join me in learning about predictive analytics and building models 
   * Just want to chat! 
-
-
-### My GitHub Stats
-
-![Niranjana's github stats](https://github-readme-stats.vercel.app/api?username=NinjMenon&count_private=true&show_icons=true&theme=vision-friendly-dark)
