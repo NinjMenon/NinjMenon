@@ -6,7 +6,7 @@
 ### I am ...
 🎓 A graduate biomedical engineer 
 
-👩‍💻 Working as a Neuroimaging Analyst  
+👩‍💻 Working as a Data Scientist  
 
 :muscle: Passionate about medical imaging 
 
@@ -16,8 +16,8 @@
 ### Please get in touch in with me if 
   * You're applying to Master's programs in the United States and need help with your SOP 
   * You want to learn basic Python in a personalized manner for absolutely free 
-  * You want to chat about imaging technology and programming in general 
-  * You want to join me in learning about predictive analytics and data mining 
+  * You want to chat about medical imaging, or tech in general
+  * You want to join me in learning about predictive analytics and building models 
   * Just want to chat! 
 
 
